@@ -1,0 +1,257 @@
+fileFormatVersion: 2
+guid: 0534233e9ff6c554789f5fcff111de38
+timeCreated: 1517452887
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: pCube10
+    100004: pCube14
+    100006: pCube15
+    100008: pCube16
+    100010: pCube17
+    100012: pCube18
+    100014: pCube19
+    100016: pCube1_polySurface1_polySurface4_polySurface6_polySurface8
+    100018: pCube1_polySurface1_polySurface4_polySurface7_polySurface6
+    100020: pCube1_polySurface1_polySurface5_polySurface4
+    100022: pCube1_polySurface3_polySurface1
+    100024: pCube20
+    100026: pCube21
+    100028: pCube22
+    100030: pCube23
+    100032: pCube24
+    100034: polySurface2_pCube1
+    400000: //RootNode
+    400002: pCube10
+    400004: pCube14
+    400006: pCube15
+    400008: pCube16
+    400010: pCube17
+    400012: pCube18
+    400014: pCube19
+    400016: pCube1_polySurface1_polySurface4_polySurface6_polySurface8
+    400018: pCube1_polySurface1_polySurface4_polySurface7_polySurface6
+    400020: pCube1_polySurface1_polySurface5_polySurface4
+    400022: pCube1_polySurface3_polySurface1
+    400024: pCube20
+    400026: pCube21
+    400028: pCube22
+    400030: pCube23
+    400032: pCube24
+    400034: polySurface2_pCube1
+    2300000: pCube10
+    2300002: pCube14
+    2300004: pCube15
+    2300006: pCube16
+    2300008: pCube17
+    2300010: pCube18
+    2300012: pCube19
+    2300014: pCube1_polySurface1_polySurface4_polySurface6_polySurface8
+    2300016: pCube1_polySurface1_polySurface4_polySurface7_polySurface6
+    2300018: pCube1_polySurface1_polySurface5_polySurface4
+    2300020: pCube1_polySurface3_polySurface1
+    2300022: pCube20
+    2300024: pCube21
+    2300026: pCube22
+    2300028: pCube23
+    2300030: pCube24
+    2300032: polySurface2_pCube1
+    3300000: pCube10
+    3300002: pCube14
+    3300004: pCube15
+    3300006: pCube16
+    3300008: pCube17
+    3300010: pCube18
+    3300012: pCube19
+    3300014: pCube1_polySurface1_polySurface4_polySurface6_polySurface8
+    3300016: pCube1_polySurface1_polySurface4_polySurface7_polySurface6
+    3300018: pCube1_polySurface1_polySurface5_polySurface4
+    3300020: pCube1_polySurface3_polySurface1
+    3300022: pCube20
+    3300024: pCube21
+    3300026: pCube22
+    3300028: pCube23
+    3300030: pCube24
+    3300032: polySurface2_pCube1
+    4300000: pCube10
+    4300002: pCube14
+    4300004: pCube15
+    4300006: pCube16
+    4300008: pCube17
+    4300010: pCube18
+    4300012: pCube19
+    4300014: pCube1_polySurface1_polySurface4_polySurface6_polySurface8
+    4300016: pCube1_polySurface1_polySurface4_polySurface7_polySurface6
+    4300018: pCube1_polySurface1_polySurface5_polySurface4
+    4300020: pCube1_polySurface3_polySurface1
+    4300022: pCube20
+    4300024: pCube21
+    4300026: pCube22
+    4300028: pCube23
+    4300030: pCube24
+    4300032: polySurface2_pCube1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube10Mat
+    second: {fileID: 2100000, guid: b14872ed7d563444e84685a95e54c7e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube14Mat
+    second: {fileID: 2100000, guid: c6970300ea7c36243b15c3fe58514b1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube15Mat
+    second: {fileID: 2100000, guid: adb1f0046ca34f84592ccfa142987efe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube16Mat
+    second: {fileID: 2100000, guid: a129d8e54f94b5a4089f45ec8348dfdf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube17Mat
+    second: {fileID: 2100000, guid: 5bef0041c0794cc4ea9e02e7ed9d2fff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube18Mat
+    second: {fileID: 2100000, guid: e927e77de44fe0b48b09c2f658aa34bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube19Mat
+    second: {fileID: 2100000, guid: 63ab42da8812c174582bb96c974801d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube1_polySurface1_polySurface4_polySurface6_polySurface8Mat
+    second: {fileID: 2100000, guid: 4951c458927ffcf4785668d9c9b42fbf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube1_polySurface1_polySurface4_polySurface7_polySurface6Mat
+    second: {fileID: 2100000, guid: 8970d5a5f12899e4f8e506833d308b83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube1_polySurface1_polySurface5_polySurface4Mat
+    second: {fileID: 2100000, guid: b91317db01be8ac4d89f4d2d221cf918, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube1_polySurface3_polySurface1Mat
+    second: {fileID: 2100000, guid: cb1319329ee8f4449846ade420f9a774, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube20Mat
+    second: {fileID: 2100000, guid: 3e628749ffd86fa459ee1f9ae12b79c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube21Mat
+    second: {fileID: 2100000, guid: 95cca7404f4d6f749ae03071fb8d9843, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube22Mat
+    second: {fileID: 2100000, guid: a903b9f92f72b9f44bdedb146f6c67ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube23Mat
+    second: {fileID: 2100000, guid: 00165b9559ed7f349be3d99d2168d045, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube24Mat
+    second: {fileID: 2100000, guid: b0dacbcd2687fa74b82ec01ea7dec283, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface2_pCube1Mat
+    second: {fileID: 2100000, guid: 61b4e1de053b5154da9b41b4a60d9c24, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
